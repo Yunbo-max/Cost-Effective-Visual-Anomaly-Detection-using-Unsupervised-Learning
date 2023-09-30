@@ -3,25 +3,25 @@ You should install the Aomalib library first and Openvino should be installed ma
 
 ## Step1: Installation
 
-# Installation(on PC)
+Installation(on PC)
 Install Anomalib
 1. Open a terminal and open a folder
 2. git clone https://github.com/openvinotoolkit/anomalib.git
 3. cd anomalib
 4. pip install -e .
 
-# Installation(on Raspberry pi)
+Installation(on Raspberry pi)
 Install Anomalib
 1. Open a terminal and open a folder
 2. git clone https://github.com/openvinotoolkit/anomalib.git
 3. cd anomalib
 4. pip install -e .
 
-# Download Openvino
+Download Openvino
 1. go to https://storage.openvinotoolkit.org/repositories/openvino/packages/2023.1/linux/
 2. download l_openvino_toolkit_debian9_2023.1.0.12185.47b736f63ed_armhf.tgz
 
-# Install Openvino
+Install Openvino
 1. sudo mkdir -p /opt/intel/openvino_2023
 2. sudo tar -xf  l_openvino_toolkit_debian9_2023.1.0.12185.47b736f63ed_armhf.tgz --strip 1 -C /opt/intel/openvino_2023
 3. sudo apt install cmake
@@ -40,16 +40,16 @@ Data Collection
 
 ## Step3: Model training and testing
 
-# Configuration
+Configuration
 1. Padim_config.yaml and Patchcore_config.yamal are configuration files for the ML training and testing.
 2. put this into src/anomalib/models/Padim/ and src/anomalib/models/Patchcore/ path respectively
 3. for the file themselves, yo can modify the hyperparameter of machine learning training 
 
-For the Coding parts, we have integrated python file 'main.py' and jupyter books file for seperate steps. Both of them are the same. 
-You can use the main.py to do employment when you make sure the each steps working correctly with the jupyter book.
-# Training and Inference process
+Training and Inference process
 1. For python file, just run the file 'main.py'
 2. For the Jupyter filer, use it to test and modify the code cause you can check each step there.
+
+Notes:For the Coding parts, we have integrated python file 'main.py' and jupyter books file for seperate steps. Both of them are the same. You can use the main.py to do employment when you make sure the each steps working correctly with the jupyter book.
 
 
 
