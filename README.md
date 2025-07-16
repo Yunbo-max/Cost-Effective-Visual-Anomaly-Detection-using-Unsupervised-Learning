@@ -1,7 +1,6 @@
 # Cost-Effective Visual Anomaly Detection using Unsupervised Learning
 
-
-[arXiv:2409.15980v1](https://arxiv.org/abs/2409.15980v1)
+[![Paper](https://img.shields.io/badge/Paper-2409.15980v1-1e90ff.svg)](https://arxiv.org/abs/2409.15980v1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![System Architecture](flow_visual.png) 
