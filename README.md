@@ -1,7 +1,8 @@
 # Cost-Effective Visual Anomaly Detection using Unsupervised Learning
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[arXiv:2409.15980v1](https://arxiv.org/abs/2409.15980v1)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![System Architecture](flow_visual.png) 
 *Figure 1: End-to-end anomaly detection pipeline on low-cost hardware*
