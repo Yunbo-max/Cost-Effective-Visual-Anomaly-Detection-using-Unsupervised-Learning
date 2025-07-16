@@ -2,7 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![System Architecture](work_flow.png)  
+
+![System Architecture](flow_visual.png) 
 *Figure 1: End-to-end anomaly detection pipeline on low-cost hardware*
 
 ## 📌 Key Features
